@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikasmagar45&label=Profile%20views&color=0e75b6&style=flat" alt="vikasmagar45" /> </p>
 
-<p align="left"> <a href="https://twitter.com/vicky_45" target="blank"><img src="https://img.shields.io/twitter/follow/vicky_45?logo=twitter&style=for-the-badge" alt="vicky_45" /></a> </p>
+<p align="left"> <a href="https://twitter.com/magar_45" target="blank"><img src="https://img.shields.io/twitter/follow/magar_45?logo=twitter&style=for-the-badge" alt="vicky_45" /></a> </p>
 
 - 🌱 I’m currently learning **React**
 
