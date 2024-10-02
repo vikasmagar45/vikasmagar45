@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **vikas121magar@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact **I like learning pretty much anything.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
