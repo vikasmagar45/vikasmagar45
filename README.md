@@ -1,4 +1,4 @@
-[![MasterHead](https://thereadersea.com/wp-content/uploads/2023/05/mern-stack.png/2000_600px.gif)](https://vikasmagar45.io)
+[![MasterHead](https://thereadersea.com/wp-content/uploads/2023/05/mern-stack.png.gif)](https://vikasmagar45.io)
 
 <h1 align="center">Hi 👋, I'm Vikas Magar</h1>
 <h3 align="center">A Passionate Mern-Stack Developer From India</h3>
