@@ -1,4 +1,4 @@
-[![MasterHead](https://media.tenor.com/UrnPTaqPEzkAAAAd/developer.gif)](https://vikasmagar45.io)
+[![MasterHead](https://media.tenor.com/UrnPTaqPEzkAAAAd/developer/2000_600px.gif)](https://vikasmagar45.io)
 
 <h1 align="center">Hi 👋, I'm Vikas Magar</h1>
 <h3 align="center">A Passionate Mern-Stack Developer From India</h3>
